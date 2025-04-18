@@ -27,22 +27,12 @@ section{
 }
 
 
-.cambiar-color-acordeon.active{
+.cambiar-color-acordeon1.active{
     background-color: #8B0000;
     color: #ffffff;            
     border-color: #8B0000; 
 }
 
-.cambiar-color-acordeon-normal{
-    background-color: #ffffff; /* fondo blanco */
-    color: #000000;            /* texto negro */
-    border-color: #dee2e6;     /* borde gris claro (opcional) */
-}
-
-.cambiar-color-acordeon:active{
-    background-color: #8B0000;
-    color: #ffffff;
-}
 
 
 
